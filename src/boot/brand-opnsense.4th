@@ -36,7 +36,7 @@
 : brand ( x y -- ) \ "OPNsense" [wide] logo in B/W (6 rows x 47 columns)
 
 	s"  ______  _____  _____                         " brand+
-	s" /  __  |/ ___ |/ __  |                        " brand+
+	s" /  __  |/ ___ |/ __  |   Hola to all          " brand+
 	s" | |  | | |__/ | |  | |___  ___ _ __  ___  ___ " brand+
 	s" | |  | |  ___/| |  | / __|/ _ \ '_ \/ __|/ _ \" brand+
 	s" | |__| | |    | |  | \__ \  __/ | | \__ \  __/" brand+
